@@ -8,10 +8,12 @@
 
 [Ver slides](https://docs.google.com/presentation/d/1jOJKo_Mn_5G6YfviFJ4q1iwoK7koCRpNzniZVt2KYSM/edit?usp=sharing)
 
-## Screenshots 
+## Sem clean Dart - Com Clean Dart 
 
-<img src="assets\readme_pj1.png" height="500em" /> 
-<img src="assets\readme_pj2.png" height="500em" /> 
+<div class="row">
+    <img src="assets\readme_pj1.png" height="500em" /> 
+   <img src="assets\readme_pj2.png" height="500em" width="50%" />
+</div>
 
 
 ## Observacao
